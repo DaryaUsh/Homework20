@@ -93,7 +93,7 @@ export default {
     display: inline-block;
     margin-top: 20px;
     padding: 12px 18px;
-    background-color: var(--button-bg, #007bff);
+    background-color: var(--button-bg, #f27657);
     color: white;
     border-radius: 5px;
     text-decoration: none;
@@ -101,6 +101,6 @@ export default {
     font-weight: bold;
 }
 .button:hover {
-    background-color: var(--button-hover, #0056b3);
+    background-color: var(--button-hover, #603522);
 }
 </style>

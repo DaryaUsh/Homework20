@@ -19,7 +19,7 @@ export default {
 
 <style>
 .navbar {
-    background-color: var(--nav-bg, #007bff);
+    background-color: var(--nav-bg, #908074);
     padding: 15px;
     display: flex;
     justify-content: center;
